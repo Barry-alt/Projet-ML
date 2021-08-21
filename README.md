@@ -1,2 +1,17 @@
 # Projet-ML
-Projet Machine Learning 
+Projet ML de ma 3-ème année à l'Ensai.
+Il s'agit de classer les genres de musiques à l'aide de SKlearn.
+Concepts traitées : 
+ - Extraction de caractéristiques
+- Transformation de fourier & Spectrogramme
+- Classification binaire et multi classes
+Modèles utilisées : 
+- Régression logistique
+- XGBClassifier
+- SVM
+- LinearDiscriminantAnalysis 
+- KNeighborsClassifier
+- DecisionTreeClassifier
+- GaussianNB
+
+Autres : choix de noyau, optimisation des paramètres, comparaison de modèles, etc...
